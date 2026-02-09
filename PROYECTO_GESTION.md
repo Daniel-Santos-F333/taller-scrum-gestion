@@ -1,5 +1,21 @@
 # Proyecto: Gestión Integrada Scrum + GitHub
 
 ## Sección 1: Planificación 
+
+### Equipo de Trabajo y Roles
+| Nombre | Rol asignado | Responsabilidad principal |
+| :--- | :--- | :--- |
+| **Daniel Santos Fajardo** | Scrum Master | Gestión del documento y planificación |
+| **Juan Pablo Cifuentes** | Product Owner | Historias de usuario y trazabilidad |
+| **Connie Tatiana Carrillo** | QA / Developer | Evidencias de integración y retrospectiva |
+
+### Herramienta de Gestión
+* **Tablero en Trello:** [Enlace al tablero](https://trello.com/invite/b/69894e8bb6fdff0d6ef16afb/ATTIa33952c7648930ec98ba323811103ca003DCEC6F/taller-scrum-gestion)
+
+### Estado Inicial del Sprint
+*Captura del tablero con las Historias de Usuario (HU-01 a HU-04) cargadas en el Backlog:*
+
+<img width="1911" height="946" alt="Screenshot 2026-02-08 231024" src="https://github.com/user-attachments/assets/aa69c842-15a9-4bc1-bad9-0108b2f0804c" />
+
 ## Sección 2: Historias de Usuario 
 ## Sección 3: Evidencias y Retro 
