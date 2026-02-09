@@ -17,9 +17,6 @@
 
 <img width="1911" height="946" alt="Screenshot 2026-02-08 231024" src="https://github.com/user-attachments/assets/aa69c842-15a9-4bc1-bad9-0108b2f0804c" />
 
-## Sección 2: Historias de Usuario 
-## Sección 3: Evidencias y Retro 
-
 
 ## Sección 2: Historias de Usuario
 
