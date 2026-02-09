@@ -37,3 +37,12 @@
 ## Sección 3: Evidencias y Retro 
 
 
+Markdown
+## Sección 3: Evidencias y Retrospectiva (Integrante C)
+
+### 1. Captura de Network Graph (GitHub)
+Aquí debe ir la imagen de Insights -> Network una vez todos los PR sean aprobados.
+
+### 2. Retrospectiva
+* *¿Qué fue lo más difícil?* Coordinar la integración de las ramas sin una rama develop intermedia, lo que nos obligó a ser muy cuidadosos con el orden de los Pull Requests.
+* *¿Cómo se resolvieron los conflictos?* Mediante comunicación constante y revisiones de código (Code Review) en GitHub antes de fusionar a la rama principal.
