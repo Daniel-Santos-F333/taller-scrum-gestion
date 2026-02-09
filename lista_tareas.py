@@ -30,6 +30,5 @@ def ejecutar():
         elif opcion == "5":
             break
 
-if __name__ == "_main_":
-    mostrar_menu()
+if __name__ == "__main__":
     ejecutar()
