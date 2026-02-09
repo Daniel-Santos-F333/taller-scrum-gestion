@@ -36,13 +36,9 @@
 
 ## Sección 3: Evidencias y Retro 
 
-
-Markdown
-## Sección 3: Evidencias y Retrospectiva (Integrante C)
-
-### 1. Captura de Network Graph (GitHub)
+### 1. Captura de Network Graph 
 Aquí debe ir la imagen de Insights -> Network una vez todos los PR sean aprobados.
 
 ### 2. Retrospectiva
-* *¿Qué fue lo más difícil?* Coordinar la integración de las ramas sin una rama develop intermedia, lo que nos obligó a ser muy cuidadosos con el orden de los Pull Requests.
-* *¿Cómo se resolvieron los conflictos?* Mediante comunicación constante y revisiones de código (Code Review) en GitHub antes de fusionar a la rama principal.
+* **¿Qué fue lo más difícil?**: La gestión de la integración final. Coordinar que los aportes de diferentes ramas mantuvieran un formato consistente fue un reto, especialmente al resolver conflictos de fusión (merge conflicts) derivados de entregas asincrónicas. Se requirió una fase de revisión técnica (Code Review) para asegurar que el producto final no tuviera código redundante o comentarios fuera de lugar.
+* **¿Cómo se resolvieron los conflictos?**: Se aplicó un flujo de trabajo centralizado donde el Scrum Master intervino directamente en las ramas de los desarrolladores para realizar limpieza de código y estandarización de formato. Esto garantizó que la rama main siempre se mantuviera funcional y con estándares de calidad profesional, evitando que errores de pegado o comentarios innecesarios afectaran la documentación.
