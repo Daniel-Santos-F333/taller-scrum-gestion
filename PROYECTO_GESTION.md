@@ -1,11 +1,9 @@
 # Proyecto: Gestión Integrada Scrum + GitHub
 
 ## Sección 1: Planificación 
-## Sección 2: Historias de Usuario 
-## Sección 3: Evidencias y Retro 
 
-Markdown
-## Sección 2: Historias de Usuario (Integrante B)
+
+## Sección 2: Historias de Usuario
 
 ### 1. Listado de Historias de Usuario
 * *HU-01: Visualización* - Como usuario, quiero ver mi lista de tareas para organizar mis pendientes.
@@ -20,3 +18,7 @@ Markdown
 | HU-02 | Agregar tarea | rama-historias | Finalizado |
 | HU-03 | Marcar completada | rama-historias | Finalizado |
 | HU-04 | Eliminar tarea | rama-historias | Finalizado |
+
+## Sección 3: Evidencias y Retro 
+
+
