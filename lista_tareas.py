@@ -1,4 +1,4 @@
-Python
+
 def mostrar_menu():
     print("\n--- GESTOR DE TAREAS ---")
     print("1. Ver tareas")
@@ -30,5 +30,6 @@ def ejecutar():
         elif opcion == "5":
             break
 
-if _name_ == "_main_":
+if __name__ == "_main_":
+    mostrar_menu()
     ejecutar()
