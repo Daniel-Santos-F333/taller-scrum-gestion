@@ -39,6 +39,8 @@
 ### 1. Captura de Network Graph 
 Aquí debe ir la imagen de Insights -> Network una vez todos los PR sean aprobados.
 
+<img width="781" height="356" alt="gitgraph_01" src="https://github.com/user-attachments/assets/4b4c04ab-f9c3-4dc5-aede-9a41b13e0e8d" />
+
 ### 2. Retrospectiva
 * **¿Qué fue lo más difícil?**: La gestión de la integración final. Coordinar que los aportes de diferentes ramas mantuvieran un formato consistente fue un reto, especialmente al resolver conflictos de fusión (merge conflicts) derivados de entregas asincrónicas. Se requirió una fase de revisión técnica (Code Review) para asegurar que el producto final no tuviera código redundante o comentarios fuera de lugar.
 * **¿Cómo se resolvieron los conflictos?**: Se aplicó un flujo de trabajo centralizado donde el Scrum Master intervino directamente en las ramas de los desarrolladores para realizar limpieza de código y estandarización de formato. Esto garantizó que la rama main siempre se mantuviera funcional y con estándares de calidad profesional, evitando que errores de pegado o comentarios innecesarios afectaran la documentación.
